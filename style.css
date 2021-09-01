@@ -82,13 +82,19 @@ h1 {
 .btn:focus {
     opacity: .75; 
 }
+.intro-primary{
+    padding: 3em 0;
+}
+
 
 .intro-primary h2 {
     color: #87629A;
+    /* padding: 3em 0; */
 }
 
 .intro-secondary {
     background-color: #136C72;
     /* text-align: center; */
     color: #FFF;
+    padding: 3em 0;
 }
